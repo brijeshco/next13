@@ -9,7 +9,7 @@
   "prettier.useTabs": false,
   "prettier.semi": true,
   "prettier.singleQuote": false,
-  "prettier.jsxSingleQuote": false,
+  "prettier.jsxSingleQuote": true,
   "prettier.trailingComma": "es5",
   "prettier.arrowParens": "always",
   "[typescriptreact]": {
